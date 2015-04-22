@@ -1,0 +1,9 @@
+c:\users\frosa\documents\visual studio 2013\Projects\ManagementFileConnections\ManagementFileConnections\bin\Debug\ManagementFileConnections.exe.config
+c:\users\frosa\documents\visual studio 2013\Projects\ManagementFileConnections\ManagementFileConnections\bin\Debug\ManagementFileConnections.exe
+c:\users\frosa\documents\visual studio 2013\Projects\ManagementFileConnections\ManagementFileConnections\bin\Debug\ManagementFileConnections.pdb
+c:\users\frosa\documents\visual studio 2013\Projects\ManagementFileConnections\ManagementFileConnections\obj\Debug\ManagementFileConnections.Properties.Resources.resources
+c:\users\frosa\documents\visual studio 2013\Projects\ManagementFileConnections\ManagementFileConnections\obj\Debug\ManagementFileConnections.csproj.GenerateResource.Cache
+c:\users\frosa\documents\visual studio 2013\Projects\ManagementFileConnections\ManagementFileConnections\obj\Debug\ManagementFileConnections.exe
+c:\users\frosa\documents\visual studio 2013\Projects\ManagementFileConnections\ManagementFileConnections\obj\Debug\ManagementFileConnections.pdb
+c:\users\frosa\documents\visual studio 2013\Projects\ManagementFileConnections\ManagementFileConnections\obj\Debug\ManagementFileConnections.App_GlobalResources.Resource1.resources
+C:\Users\frosa\documents\visual studio 2013\Projects\ManagementFileConnections\ManagementFileConnections\obj\Debug\ManagementFileConnections.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\frosa\Documents\Visual Studio 2013\Projects\ManagementFileConnections\UnitTestManagementFileConnections\bin\Debug\UnitTestManagementFileConnections.dll
+C:\Users\frosa\Documents\Visual Studio 2013\Projects\ManagementFileConnections\UnitTestManagementFileConnections\bin\Debug\UnitTestManagementFileConnections.pdb
+C:\Users\frosa\Documents\Visual Studio 2013\Projects\ManagementFileConnections\UnitTestManagementFileConnections\bin\Debug\ManagementFileConnections.exe
+C:\Users\frosa\Documents\Visual Studio 2013\Projects\ManagementFileConnections\UnitTestManagementFileConnections\bin\Debug\nunit.framework.dll
+C:\Users\frosa\Documents\Visual Studio 2013\Projects\ManagementFileConnections\UnitTestManagementFileConnections\bin\Debug\ManagementFileConnections.pdb
+C:\Users\frosa\Documents\Visual Studio 2013\Projects\ManagementFileConnections\UnitTestManagementFileConnections\bin\Debug\nunit.framework.xml
+C:\Users\frosa\Documents\Visual Studio 2013\Projects\ManagementFileConnections\UnitTestManagementFileConnections\obj\Debug\UnitTestManagementFileConnections.csprojResolveAssemblyReference.cache
+C:\Users\frosa\Documents\Visual Studio 2013\Projects\ManagementFileConnections\UnitTestManagementFileConnections\obj\Debug\UnitTestManagementFileConnections.dll
+C:\Users\frosa\Documents\Visual Studio 2013\Projects\ManagementFileConnections\UnitTestManagementFileConnections\obj\Debug\UnitTestManagementFileConnections.pdb
